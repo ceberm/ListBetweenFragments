@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="btn_fragment">Ir al Formulario</string>
+    <string name="form">Formulario</string>
+    <string name="hintNombre">Digite el nombre</string>
+    <string name="hintApellido">Digite el apellido</string>
+    <string name="hintCorreo">Digite el correo</string>
+    <string name="hintNumero">Digite el numero</string>
+    <string name="btnSubmit">Enviar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Correo">Correo</string>
+    <string name="Numero">Numero</string>
+    <string name="Info">Informacion del Usuario</string>
+    <string name="btn_newPersona">Crear Persona</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_form">FormActivity</string>
+</resources>
